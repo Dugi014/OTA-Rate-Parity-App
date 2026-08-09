@@ -1,5 +1,8 @@
 \# 🏨 OTA Rate Parity Tracker
 
+This repository contains a public demo version of an internal learning prototype.
+All data, screenshots, and examples are synthetic and do not represent real Vacatia systems.
+
 \### AppSheet + Google Workspace Automation (Learning Prototype)
 
 
